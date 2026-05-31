@@ -11,7 +11,7 @@
     "@material-ui/lab": "^4.0.0-alpha.61",
     "@twilio-paste/core": "^16.0.1",
     "@twilio-paste/icons": "^9.3.0",
-    "@twilio/flex-plugin-scripts": "6.0.4",
+    "@twilio/flex-plugin-scripts": "6.3.0",
     "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "react": "17.0.2",
